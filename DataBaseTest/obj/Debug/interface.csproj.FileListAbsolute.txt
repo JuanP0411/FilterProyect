@@ -1,0 +1,13 @@
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\DataBaseTest.exe.config
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\DataBaseTest.exe
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\DataBaseTest.pdb
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\SODA.dll
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\interface.csprojAssemblyReference.cache
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.Form1.resources
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.Properties.Resources.resources
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\interface.csproj.GenerateResource.cache
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\interface.csproj.CopyComplete
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.exe
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.pdb

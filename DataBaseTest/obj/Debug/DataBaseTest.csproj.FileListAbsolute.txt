@@ -1,0 +1,8 @@
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\DataBaseTest.exe.config
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\DataBaseTest.exe
+C:\Users\juanp\Documents\interface\DataBaseTest\bin\Debug\DataBaseTest.pdb
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.csprojAssemblyReference.cache
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.Properties.Resources.resources
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.csproj.GenerateResource.cache
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.exe
+C:\Users\juanp\Documents\interface\DataBaseTest\obj\Debug\DataBaseTest.pdb
